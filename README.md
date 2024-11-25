@@ -1,6 +1,6 @@
 # English: please use your browser to translate to english
 
-# __ ET框架讨论群: 474643097 新手请加新手群:688514974 __ 
+# ET框架讨论群: 474643097 新手请加新手群:688514974 
 
 ---
 # 商业项目（已出现多个一个人开发的MMO上线，足以证明ET的强大）：    
