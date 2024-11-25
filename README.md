@@ -1,11 +1,6 @@
 # English: please use your browser to translate to english
 
-# __ET框架讨论群: 474643097 新手请加新手群:688514974__  
-
----
-# 公司黑名单：  
-## 成都三猩元宇宙公司，拖欠员工工资，拖欠本人咨询费用  
----
+# __ ET框架讨论群: 474643097 新手请加新手群:688514974 __ 
 
 ---
 # 商业项目（已出现多个一个人开发的MMO上线，足以证明ET的强大）：    
@@ -243,12 +238,6 @@ ET框架是一个强大灵活的分布式服务端架构，完全可以满足绝
 
 .net core 游戏资源分享  
 [各种dotnet core项目收集](https://github.com/thangchung/awesome-dotnet-core)  
-
-__讨论QQ群 : 474643097__
-
-
-# 支付宝捐赠  
-![使用支付宝对该项目进行捐赠](https://github.com/egametang/ET/blob/master/Book/donate.png)
 
 # 友情链接  
 [Box2DSharp](https://github.com/Zonciu/Box2DSharp)  box2d的C#移植版，性能很强  
